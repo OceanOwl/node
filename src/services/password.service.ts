@@ -1,5 +1,5 @@
 // noinspection TypeScriptCheckImport
-import { bcrypt } from "bcrypt";
+import bcrypt from "bcrypt";
 
 import { configs } from "../configs/config";
 
